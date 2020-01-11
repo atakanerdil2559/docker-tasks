@@ -1,2 +1,2 @@
 # docker-tasks
-Repositry for Docker tasks
+Repositry for Docker Class tasks
